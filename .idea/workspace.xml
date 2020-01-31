@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b49581cf-e01b-4813-923f-c5c06d19a2bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collection/Array/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collection/Array/PersonalComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collection/fail/failFast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collection/fail/failSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Reflect/Reflect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Reflect/Test/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Reflect/lock/DeadLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cas/PersonalUnsafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lock/Synchronized.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../maven/apache-maven-3.6.0/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1Wv4UXtEZc9zKrUQwMrf6wg17Ia" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Collection" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Concurrent">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.Array.Array" />
+      <module name="springDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collection.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Concurrent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concurrency.Concurrent" />
+      <module name="springDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concurrency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonalUnsafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cas.PersonalUnsafe" />
+      <module name="springDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Synchronized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lock.Synchronized" />
+      <module name="springDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="failSafe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection.fail.failSafe" />
+      <module name="springDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collection.fail.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Concurrent" />
+        <item itemvalue="Application.PersonalUnsafe" />
+        <item itemvalue="Application.Synchronized" />
+        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.failSafe" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b49581cf-e01b-4813-923f-c5c06d19a2bb" name="Default Changelist" comment="" />
+      <created>1580016750742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580016750742</updated>
+      <workItem from="1580016753452" duration="1459000" />
+      <workItem from="1580040012636" duration="1403000" />
+      <workItem from="1580091213793" duration="10917000" />
+      <workItem from="1580173405438" duration="11238000" />
+      <workItem from="1580259592031" duration="52000" />
+      <workItem from="1580285414573" duration="698000" />
+      <workItem from="1580302070632" duration="1073000" />
+      <workItem from="1580440681404" duration="313000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="368" y="145" key="#Project_Structure" timestamp="1580032244941">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="368" y="145" key="#Project_Structure/-64.-1080.1920.1080/0.0.1536.960@0.0.1536.960" timestamp="1580032244941" />
+    <state x="368" y="145" key="#VisualVM_Launcher" timestamp="1580302437170">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="368" y="145" key="#VisualVM_Launcher/-64.-1080.1920.1080/0.0.1536.960@0.0.1536.960" timestamp="1580302437170" />
+    <state x="581" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1580302741261">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="581" y="203" key="#com.intellij.ide.util.MemberChooser/-64.-1080.1920.1080/0.0.1536.960@0.0.1536.960" timestamp="1580302741261" />
+    <state x="349" y="412" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1580125933275">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="349" y="412" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/-64.-1080.1920.1080/0.0.1536.960@0.0.1536.960" timestamp="1580125933275" />
+    <state x="534" y="367" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1580125945655">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="534" y="367" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/-64.-1080.1920.1080/0.0.1536.960@0.0.1536.960" timestamp="1580125945655" />
+    <state width="474" height="466" key="DebuggerActiveHint" timestamp="1580193468968">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="474" height="466" key="DebuggerActiveHint/-64.-1080.1920.1080/0.0.1536.960@0.0.1536.960" timestamp="1580193468968" />
+    <state width="1494" height="265" key="GridCell.Tab.0.bottom" timestamp="1580303181014">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1494" height="265" key="GridCell.Tab.0.bottom/-64.-1057.1920.1057/0.23.1536.882@0.23.1536.882" timestamp="1580051731779" />
+    <state width="1494" height="327" key="GridCell.Tab.0.bottom/-64.-1057.1920.1057/0.23.1536.883@0.23.1536.883" timestamp="1580133866815" />
+    <state width="1494" height="327" key="GridCell.Tab.0.bottom/-64.-1057.1920.1057/0.23.1536.884@0.23.1536.884" timestamp="1580221317836" />
+    <state width="1494" height="265" key="GridCell.Tab.0.bottom/-64.-1080.1920.1080/0.0.1536.960@0.0.1536.960" timestamp="1580303181014" />
+    <state width="1494" height="265" key="GridCell.Tab.0.center" timestamp="1580303181014">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1494" height="265" key="GridCell.Tab.0.center/-64.-1057.1920.1057/0.23.1536.882@0.23.1536.882" timestamp="1580051731777" />
+    <state width="1494" height="327" key="GridCell.Tab.0.center/-64.-1057.1920.1057/0.23.1536.883@0.23.1536.883" timestamp="1580133866813" />
+    <state width="1494" height="327" key="GridCell.Tab.0.center/-64.-1057.1920.1057/0.23.1536.884@0.23.1536.884" timestamp="1580221317835" />
+    <state width="1494" height="265" key="GridCell.Tab.0.center/-64.-1080.1920.1080/0.0.1536.960@0.0.1536.960" timestamp="1580303181014" />
+    <state width="1494" height="265" key="GridCell.Tab.0.left" timestamp="1580303181013">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1494" height="265" key="GridCell.Tab.0.left/-64.-1057.1920.1057/0.23.1536.882@0.23.1536.882" timestamp="1580051731777" />
+    <state width="1494" height="327" key="GridCell.Tab.0.left/-64.-1057.1920.1057/0.23.1536.883@0.23.1536.883" timestamp="1580133866812" />
+    <state width="1494" height="327" key="GridCell.Tab.0.left/-64.-1057.1920.1057/0.23.1536.884@0.23.1536.884" timestamp="1580221317835" />
+    <state width="1494" height="265" key="GridCell.Tab.0.left/-64.-1080.1920.1080/0.0.1536.960@0.0.1536.960" timestamp="1580303181013" />
+    <state width="1494" height="265" key="GridCell.Tab.0.right" timestamp="1580303181014">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1494" height="265" key="GridCell.Tab.0.right/-64.-1057.1920.1057/0.23.1536.882@0.23.1536.882" timestamp="1580051731778" />
+    <state width="1494" height="327" key="GridCell.Tab.0.right/-64.-1057.1920.1057/0.23.1536.883@0.23.1536.883" timestamp="1580133866814" />
+    <state width="1494" height="327" key="GridCell.Tab.0.right/-64.-1057.1920.1057/0.23.1536.884@0.23.1536.884" timestamp="1580221317836" />
+    <state width="1494" height="265" key="GridCell.Tab.0.right/-64.-1080.1920.1080/0.0.1536.960@0.0.1536.960" timestamp="1580303181014" />
+    <state width="1494" height="327" key="GridCell.Tab.1.bottom" timestamp="1580221317838">
+      <screen x="0" y="23" width="1536" height="884" />
+    </state>
+    <state width="1494" height="327" key="GridCell.Tab.1.bottom/-64.-1057.1920.1057/0.23.1536.883@0.23.1536.883" timestamp="1580133866819" />
+    <state width="1494" height="327" key="GridCell.Tab.1.bottom/-64.-1057.1920.1057/0.23.1536.884@0.23.1536.884" timestamp="1580221317838" />
+    <state width="1494" height="327" key="GridCell.Tab.1.bottom/-64.-1080.1920.1080/0.0.1536.960@0.0.1536.960" timestamp="1580203341066" />
+    <state width="1494" height="327" key="GridCell.Tab.1.center" timestamp="1580221317837">
+      <screen x="0" y="23" width="1536" height="884" />
+    </state>
+    <state width="1494" height="327" key="GridCell.Tab.1.center/-64.-1057.1920.1057/0.23.1536.883@0.23.1536.883" timestamp="1580133866817" />
+    <state width="1494" height="327" key="GridCell.Tab.1.center/-64.-1057.1920.1057/0.23.1536.884@0.23.1536.884" timestamp="1580221317837" />
+    <state width="1494" height="327" key="GridCell.Tab.1.center/-64.-1080.1920.1080/0.0.1536.960@0.0.1536.960" timestamp="1580203341065" />
+    <state width="1494" height="327" key="GridCell.Tab.1.left" timestamp="1580221317837">
+      <screen x="0" y="23" width="1536" height="884" />
+    </state>
+    <state width="1494" height="327" key="GridCell.Tab.1.left/-64.-1057.1920.1057/0.23.1536.883@0.23.1536.883" timestamp="1580133866816" />
+    <state width="1494" height="327" key="GridCell.Tab.1.left/-64.-1057.1920.1057/0.23.1536.884@0.23.1536.884" timestamp="1580221317837" />
+    <state width="1494" height="327" key="GridCell.Tab.1.left/-64.-1080.1920.1080/0.0.1536.960@0.0.1536.960" timestamp="1580203341065" />
+    <state width="1494" height="327" key="GridCell.Tab.1.right" timestamp="1580221317838">
+      <screen x="0" y="23" width="1536" height="884" />
+    </state>
+    <state width="1494" height="327" key="GridCell.Tab.1.right/-64.-1057.1920.1057/0.23.1536.883@0.23.1536.883" timestamp="1580133866818" />
+    <state width="1494" height="327" key="GridCell.Tab.1.right/-64.-1057.1920.1057/0.23.1536.884@0.23.1536.884" timestamp="1580221317838" />
+    <state width="1494" height="327" key="GridCell.Tab.1.right/-64.-1080.1920.1080/0.0.1536.960@0.0.1536.960" timestamp="1580203341066" />
+    <state x="269" y="119" key="SettingsEditor" timestamp="1580122202332">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="269" y="119" key="SettingsEditor/-64.-1080.1920.1080/0.0.1536.960@0.0.1536.960" timestamp="1580122202332" />
+    <state x="498" y="230" width="540" height="524" key="StructurePopup" timestamp="1580302887457">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="498" y="230" width="540" height="524" key="StructurePopup/-64.-1080.1920.1080/0.0.1536.960@0.0.1536.960" timestamp="1580302887457" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1580203013142">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/-64.-1080.1920.1080/0.0.1536.960@0.0.1536.960" timestamp="1580203013142" />
+    <state x="505" y="242" width="782" height="855" key="search.everywhere.popup" timestamp="1580285956858">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="433" y="211" width="670" height="676" key="search.everywhere.popup/-64.-1057.1920.1057/0.23.1536.884@0.23.1536.884" timestamp="1580189172954" />
+    <state x="433" y="211" width="670" height="676" key="search.everywhere.popup/-64.-1080.1920.1080/0.0.1536.960@0.0.1536.960" timestamp="1580202238970" />
+    <state x="505" y="242" width="782" height="855" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1580285956858" />
+    <state x="505" y="246" width="782" height="789" key="search.everywhere.popup/0.23.1792.1034@0.23.1792.1034" timestamp="1580285953340" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Collection/fail/failFast.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java</url>
+          <line>132</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicInteger.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
